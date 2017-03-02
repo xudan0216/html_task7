@@ -84,7 +84,7 @@ a {
   color: #393a3a;
   font-size: 14px;
 }
-.nav a {
+.nav li a {
   float: left;
   width: 120px;
   color: #393a3a;
